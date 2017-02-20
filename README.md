@@ -10,7 +10,7 @@ Adds the plugin to your `book.json`, then run `gitbook install` if you are build
 
 ```js
 {
-    "plugins": ["codetabs@git+https://github.com/gameontext/plugin-codetabs.git#1.0.17"]
+    "plugins": ["codetabs@git+https://github.com/gameontext/plugin-codetabs.git#1.0.38"]
 }
 ```
 

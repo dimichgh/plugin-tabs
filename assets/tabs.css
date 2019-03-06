@@ -14,7 +14,7 @@
 
 .tabs .tabs-header .tab.active {
     border: 1px solid #ddd;
-    border-bottom-color: #428bca;
+    border-bottom-color: #FFF;
     background-color: #FFF;
     cursor: default;
     opacity: 1;

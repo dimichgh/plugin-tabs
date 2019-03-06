@@ -5,7 +5,7 @@
 .tabs .tabs-header .tab {
     display: inline-block;
     background-color: rgb(247,247,247);
-    padding: 3px 6px;
+    padding: 12px 24px;
     border: 1px solid #ddd;
     border-bottom: 2px solid transparent;
     cursor: pointer;
@@ -26,7 +26,7 @@
 
 .tabs .tabs-body .tab.active {
     display: block;
-    margin: 10px;
+    margin: 24px;
 }
 
 .codetabblock {
